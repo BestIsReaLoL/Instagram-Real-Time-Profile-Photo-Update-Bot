@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^1.14.0",
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.9", 
+    "fs": "0.0.1-security", 
+    "jimp": "^0.16.1"
+
+    
   }
 }
